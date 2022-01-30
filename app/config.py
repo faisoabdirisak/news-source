@@ -3,6 +3,7 @@ class Config:
     General configuration parent class
     '''
     BASE_URL='https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=cc96fa0b6e864b379ea71da5d1b0697f'
+    NEWS_API_KEY ='c96fa0b6e864b379ea71da5d1b0697f'
 
 
 
